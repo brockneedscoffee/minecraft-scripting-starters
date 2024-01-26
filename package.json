@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-scripting-starters",
+  "version": "0.0.5",
+  "description": "cli to create boilerplate projects for scripting projects",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "minecraft-scripting-starters": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockneedscoffee/minecraft-scripting-starters.git"
+  },
+  "author": "Brock Davis (brockneedscoffee.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cross-spawn": "^7.0.3",
+    "inquirer": "^9.2.12",
+    "uuid": "^9.0.1",
+    "yargs": "^17.7.2"
+  }
+}
