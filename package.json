@@ -1,6 +1,6 @@
 {
   "name": "minecraft-scripting-starters",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "cli to create boilerplate projects for scripting projects",
   "main": "./index.js",
   "type": "module",
