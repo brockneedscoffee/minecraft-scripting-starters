@@ -151,7 +151,7 @@ inquirer
         "dependencies": [
           {
             "module_name": "@minecraft/server",
-            "version": "1.7.0"
+            "version": "1.5.0"
           }
         ]
       }

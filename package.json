@@ -1,6 +1,6 @@
 {
   "name": "minecraft-scripting-starters",
-  "version": "0.0.8",
+  "version": "0.0.7",
   "description": "cli to create boilerplate projects for scripting projects",
   "main": "./index.js",
   "type": "module",
@@ -18,7 +18,9 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
+    "cross-spawn": "^7.0.3",
     "inquirer": "^9.2.12",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "yargs": "^17.7.2"
   }
 }
